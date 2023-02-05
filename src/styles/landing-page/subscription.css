@@ -1,8 +1,8 @@
 .subscription{
     margin-top: 7vw;
     background-color: #051018;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     padding-right: 100px;
     display: flex;
 }
@@ -18,8 +18,8 @@
 
 .sub-text2{
     font-weight: 200;
-    font-size: 1.5vw;
-    color: rgba(256, 256, 256, 0.7);
+    font-size: 1.2vw;
+    color: white;
 }
 
 .sub-img{
@@ -34,14 +34,14 @@
 .sub-submit{
     border: none;
     background-color: #FF8140;
-    padding: 10px 10px;
+    padding: 12px 12px;
     border-radius: 10px;
     color: white;
     font-weight: bold;
     font-size: 15px;
     transition: .4s;
     margin-left: 20px;
-    width: fit-content;
+    width: 120px;
     margin-top: 20px;
 }
 .sub-submit:hover{
@@ -52,6 +52,6 @@
     width: 40%;
     height: 45px;
     border-radius: 10px;
-    padding: 6px;
+    padding: 15px;
     font-size: medium;
 }

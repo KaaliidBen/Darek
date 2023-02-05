@@ -7,11 +7,11 @@ export default function About() {
       <div className="about">
         <div>
           <div className="about-title">A propos</div>
-          <div className="about-text">Lorem Ipsum is simply dummy text<br/>
-           of the printing and typesetting industry.<br/>
-            Lorem Ipsum has been the industry's standard<br/>
-             dummy text ever since the 1500s</div>
+          <div className="about-text">Meilleur endroit pour vente et achat <br/>
+          des biens immobilieres en Algérie<br/>
+          Experience de plus de 5 ans<br/>
         </div>  
+        </div> 
         <div>
           <div className="about-title">Nos service</div>
           <ul>
